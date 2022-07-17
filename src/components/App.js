@@ -6,6 +6,7 @@ const App = () => {
     <div id="main">
       <img src={star}  height="300px" width="300px" />
     </div>
+
   )
 }
 
